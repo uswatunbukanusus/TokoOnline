@@ -13,7 +13,7 @@
             color: white;
         }
         .icon-nav:hover{
-            color:black;
+            color:grey;
         }
     </style>
     <title>Toko online | {{$title}}</title>
