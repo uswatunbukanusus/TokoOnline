@@ -15,4 +15,4 @@ class Controller extends BaseController
             'title' => 'Home',
         ]);
     }
-};
+}
