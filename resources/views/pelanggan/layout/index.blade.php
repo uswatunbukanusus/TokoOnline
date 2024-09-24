@@ -22,7 +22,38 @@
         </selection>
         <footer>
           <div class="container">
-            .d-flex
+            <div class="d-flex">
+              <div class="tittle-left">
+                <div class="header-title">
+                  TOKO ONLINE KITA
+                </div>
+                <P>SFIFSDIYHSFHISYHISDF.</P>
+              </div>
+              <div class="title-middle">
+                  <div class="header-title">
+                    Tentang Kami
+                  </div>
+                  <ul>
+                    <li>
+                      <address>
+                          bhfvnjhsfrnjhfjhn
+                      </address>
+                    </li>
+                    <li>
+                      <p>45678</p>
+                    </li>
+                    <li>
+                      p74638247
+                    </li>
+                  </ul>
+              </div>
+              <div class="title-sosmed">
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-whatsapp"></i>
+                <i class="fa-brands fa-linkedin"></i>
+              </div>
+            </div>
           </div>
         </footer>
     </main>
